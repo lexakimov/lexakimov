@@ -7,6 +7,10 @@ My profile contains many different repositories. Here are some you might want to
 - [object-memory-measurer](https://github.com/lexakimov/object-memory-measurer)
 - [multi-index-indexed-collection](https://github.com/lexakimov/multi-index-indexed-collection)
 
+## My contributions:
+
+- [easy-random #486](https://github.com/j-easy/easy-random/pull/486)
+
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
