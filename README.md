@@ -1,10 +1,13 @@
 ### Hi there 👋
+My name is Alexey. I am a java developer.
+
+My profile contains many different repositories. Here are some you might want to pay attention to:
+
+- [hashcode-efficiency-analyzer](https://github.com/lexakimov/hashcode-efficiency-analyzer)
+- [object-memory-measurer](https://github.com/lexakimov/object-memory-measurer)
+- [multi-index-indexed-collection](https://github.com/lexakimov/multi-index-indexed-collection)
 
 <!--
-**lexakimov/lexakimov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
