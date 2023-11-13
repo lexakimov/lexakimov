@@ -10,6 +10,7 @@ My profile contains many different repositories. Here are some you might want to
 ### My contributions:
 
 - [easy-random #486](https://github.com/j-easy/easy-random/pull/486)
+- [shared-mime-info](https://gitlab.freedesktop.org/xdg/shared-mime-info/-/blob/98232f2a11fdfa7ebaea9df5a6d9525722043c1e/po/ru.po) - restored translations at `ru.po` via [transifex](https://app.transifex.com/freedesktop/shared-mime-info/language/ru/)
 
 <!--
 - 🔭 I’m currently working on ...
