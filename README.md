@@ -15,6 +15,7 @@ My profile contains many different repositories. Here are some you might want to
 ### Issues opened by me
 
 - [spring-framework issue #32644](https://github.com/spring-projects/spring-framework/issues/32644)
+- [spring-framework issue #32865](https://github.com/spring-projects/spring-framework/issues/32865)
 
 <!--
 - 🔭 I’m currently working on ...
