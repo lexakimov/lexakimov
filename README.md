@@ -3,6 +3,7 @@ My name is Alexey. I am a java developer.
 
 My profile contains many different repositories. Here are some you might want to pay attention to:
 
+- [xmlgenerator](https://github.com/lexakimov/xmlgenerator)
 - [hashmap-efficiency-analysis](https://github.com/lexakimov/hashmap-efficiency-analysis)
 - [object-memory-measurer](https://github.com/lexakimov/object-memory-measurer)
 - [multi-index-indexed-collection](https://github.com/lexakimov/multi-index-indexed-collection)
